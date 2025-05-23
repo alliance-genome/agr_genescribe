@@ -1,0 +1,3 @@
+- Information_extraction_annotation_by_paper_20250511.csv: Factual contents extracted from selected papers
+- No_Desc_gene_descriptions_20250512.csv: Gene descriptions generated for genes without descriptions at Alliance
+- Incomplete_Desc_gene_descriptions_20250512.csv: Gene descriptions generated for genes with existing descriptions at Alliance
